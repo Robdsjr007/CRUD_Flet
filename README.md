@@ -4,11 +4,11 @@ An example of a minimal Flet app.
 
 To run the app:
 
-## 1 - install flet:
+### 1 - install flet:
 ```
 pip install flet
 ```
-## 2 - run app:
+### 2 - run app:
 ```
 flet run [app_directory]
 ```
